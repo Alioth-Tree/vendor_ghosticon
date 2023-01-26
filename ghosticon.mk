@@ -1,6 +1,6 @@
 # GhostIcon
 PRODUCT_SOONG_NAMESPACES += \
-    vendor/GhostIcon
+    vendor/ghosticon
 
 PRODUCT_PACKAGES += \
     GhostIconPrebuilt 
