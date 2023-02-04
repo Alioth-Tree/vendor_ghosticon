@@ -4,6 +4,11 @@ Lawnicon mod
 Most icons import for TeamFiles PLE icon overlay
 So, Thanks to ThemFiles for icons
 
+clone 
+```bash
+   git clone https://github.com/Ghosuto/vendor_ghosticon.git vendor/ghosticon
+```
+
 To build with GhostIcon add this line in device.mk or (rom)_(device).mk
 ```bash
    # GhostIcon
