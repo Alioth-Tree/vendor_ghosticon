@@ -6,7 +6,7 @@ So, Thanks to ThemFiles for icons
 
 clone 
 ```bash
-   git clone https://github.com/Ghosuto/vendor_ghosticon.git vendor/ghosticon
+   git clone https://github.com/Alioth-Tree/vendor_ghosticon.git vendor/ghosticon
 ```
 
 To build with GhostIcon add this line in device.mk or (rom)_(device).mk
